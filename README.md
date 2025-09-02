@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ahmed Abdullah</h1>
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px" /> 
+  My name is Mohammed Abdullah
+</h1>
 <h2 align="center">Mobile Devolper</h2>
+<p align="center">
+	<a href="https://www.github.com/MohamedSecFlutter" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MohamedSecFlutter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</p>
 
 # ✨ <strong>About Me</strong> ✨
 
@@ -12,10 +19,6 @@
 - 🏅 Participated in the ECPC qualification two times.
 - 💼 Actively seeking `job opportunities`  
   📄 [Download My CV](https://drive.google.com/uc?export=download&id=1XGTH7va0xPcAII7PekPCajCy5XfKLoBa) | 🌐 [Visit My Portfolio](https://mohamedsecflutter.github.io/portfolio_web/)
-
-# 🚀 <strong>Skills</strong> 🚀
-
-<p align="center"><em>What I use to build, solve, and explore</em></p>
 
 ## 🧾 Programming Languages
 
@@ -70,15 +73,6 @@
 	<a href="https://wa.me/201017879676" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-## 🖥️ Operating Systems
-
-<p align="center">
-  <!-- Windows -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" height="22"/>
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" height="22"/>
-</p>
-
 ## 🌍 Languages
 
 <p align="center">
@@ -91,6 +85,25 @@
 
 
  ## 🏆 GitHub Trophies
-  <p align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=Abdallah-Alqiran&theme=onestar&row=1&column=7"/>
+  <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=MohamedSecFlutter&theme=onestar&row=1&column=7"/>
   </p>
+
+<b>My GitHub Stats</b>
+
+<!-- First two side by side -->
+<p align="center">
+  <a href="http://www.github.com/MohamedSecFlutter">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohamedSecFlutter&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <a href="http://www.github.com/MohamedSecFlutter">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSecFlutter&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
+
+<!-- Third one centered below -->
+<p align="center">
+  <a href="https://github.com/MohamedSecFlutter">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSecFlutter&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
+  </a>
+</p>
