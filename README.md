@@ -4,8 +4,8 @@
 </h1>
 <h2 align="center">Mobile Devolper</h2>
 <p align="center">
-	<a href="https://github.com/Mohammed-A-Abdullah/Mohammed-A-Abdullah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MohamedSecFlutter?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+	<a href="https://github.com/Mohammed-A-Abdullah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Mohammed-A-Abdullah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
 # ✨ <strong>About Me</strong> ✨
