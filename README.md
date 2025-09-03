@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Mohammed-A-Abdullah?logo=github&sty
 - 💪🏿 Developing strong and scalable applications while tackling technical challenges.
 - 🏅 Participated in the ECPC qualification two times.
 - 💼 Actively seeking `job opportunities`  
-  📄 [Download My CV](https://drive.google.com/uc?export=download&id=1XGTH7va0xPcAII7PekPCajCy5XfKLoBa) | 🌐 [Visit My Portfolio](https://mohammed-a-abdullah.github.io/portfolio_web/)
+  📄 [Download My CV](https://drive.google.com/uc?export=download&id=1bATDWczBPQQsJTHbVJysBOBnfkiBHWha) | 🌐 [Visit My Portfolio](https://mohammed-a-abdullah.github.io/portfolio_web/)
 
 ## 🧾 Programming Languages
 
